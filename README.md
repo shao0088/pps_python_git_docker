@@ -26,3 +26,14 @@ cd pps_python_git_docker
 5. Acceder a:
    - http://127.0.0.1:5000 → "Hola, mundo"
    - `http://127.0.0.1:5000/frotar/<n>` → obtener N frases aleatorias de la Bayeta de la Fortuna
+
+
+## Ejecutar con Docker
+
+1. Construir la imagen:
+
+2. Ejecutar el contenedor:
+
+3. Acceder en navegador:
+- `http://127.0.0.1:5000` → Hola, mundo
+- `http://127.0.0.1/frotar/<n>` → obtener N frases aleatorias
