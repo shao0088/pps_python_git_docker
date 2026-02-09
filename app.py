@@ -20,4 +20,4 @@ if __name__ == "__main__":
 
 print("Probando Bayeta de la Fortuna:")
 print(frotar(3))
->>>>>>> experto_en_python1
+experto_en_python1
