@@ -1,3 +1,4 @@
 from bayeta import frotar
 
-print("Hola mundo")
+print("Probando Bayeta de la Fortuna:")
+print(frotar(3))
