@@ -7,12 +7,12 @@ Cada vez que se acceda a la web, nos dirá un texto auspicioso aleatorio.
 
 ## Instalación y ejecución
 
-### Requisitos
+## Requisitos
 - Python 3.10 o superior
 - Git
 
-### Clonar el repositorio
-```bash
+## Clonar el repositorio
+
 git clone https://github.com/shao0088/pps_python_git_docker.git
 cd pps_python_git_docker
 
